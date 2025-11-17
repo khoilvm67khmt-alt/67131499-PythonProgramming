@@ -1,0 +1,5 @@
+print('đây là chương trình tính diện tích và chu vi hình chữ nhật')
+A=float(input('Hãy nhập số A = '))
+B=float(input('Hãy nhập số B = '))
+print('Diện tích hình chữ nhật là', A*B)
+print('Chu vi hình chữ nhât là', 2*(A+B))
