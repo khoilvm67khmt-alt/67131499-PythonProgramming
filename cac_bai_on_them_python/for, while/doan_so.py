@@ -1,5 +1,5 @@
 import random
-so_may_man = random.randint(1, 20)
+so_may_man = random.randint(1, 100)
 print("Chào mừng bạn đến với Game Đoán Số!")
 print("Mình đã chọn một số từ 1 đến 20. Hãy đoán xem số đó là bao nhiêu")
 while True :
