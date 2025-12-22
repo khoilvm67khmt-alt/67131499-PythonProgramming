@@ -1,0 +1,6 @@
+w=float(input("Nhập chiều rộng(rộng<=0.0): "))
+h=float(input("Nhập chiều dài(cao<=100.0): "))
+chu_vi= 2*(w+h)
+dien_tich= (w*h)
+print(f"Chu vi{chu_vi :.2f}")
+print(f"Diện tích{dien_tich :.2f}")
